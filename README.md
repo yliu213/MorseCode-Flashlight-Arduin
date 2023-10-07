@@ -1,7 +1,5 @@
 # MorseCode-Flashlight-Arduino
 
-![图片](https://github.com/yliu213/MorseCode-Flashlight-Arduino/assets/129010520/fa86baea-b54b-4aae-b163-58a762160b78)
-
 The Morse Code Flashlight is a creative Arduino-based project that combines technology, communication, and fun. It allows you to interact with Morse code using physical buttons and an LED flashlight, making it an engaging way to learn and experiment with Morse code.
 
 ## Features
